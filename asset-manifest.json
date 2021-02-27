@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/test-4chicks/static/js/main.8ad4a5fc.chunk.js",
-    "main.js.map": "/test-4chicks/static/js/main.8ad4a5fc.chunk.js.map",
-    "runtime-main.js": "/test-4chicks/static/js/runtime-main.6cd2a0fb.js",
-    "runtime-main.js.map": "/test-4chicks/static/js/runtime-main.6cd2a0fb.js.map",
-    "static/js/2.31a96cfc.chunk.js": "/test-4chicks/static/js/2.31a96cfc.chunk.js",
-    "static/js/2.31a96cfc.chunk.js.map": "/test-4chicks/static/js/2.31a96cfc.chunk.js.map",
-    "static/js/3.e3943a29.chunk.js": "/test-4chicks/static/js/3.e3943a29.chunk.js",
-    "static/js/3.e3943a29.chunk.js.map": "/test-4chicks/static/js/3.e3943a29.chunk.js.map",
-    "index.html": "/test-4chicks/index.html",
-    "static/js/2.31a96cfc.chunk.js.LICENSE.txt": "/test-4chicks/static/js/2.31a96cfc.chunk.js.LICENSE.txt",
-    "static/media/featured.0f08611b.jpg": "/test-4chicks/static/media/featured.0f08611b.jpg",
-    "static/media/hero-image.16da3810.jpg": "/test-4chicks/static/media/hero-image.16da3810.jpg",
-    "static/media/product1.2dacdd15.jpg": "/test-4chicks/static/media/product1.2dacdd15.jpg",
-    "static/media/product2.6d3c0459.jpg": "/test-4chicks/static/media/product2.6d3c0459.jpg",
-    "static/media/product3.ccc7d56b.jpg": "/test-4chicks/static/media/product3.ccc7d56b.jpg"
+    "main.js": "/static/js/main.8ad4a5fc.chunk.js",
+    "main.js.map": "/static/js/main.8ad4a5fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.91684171.js",
+    "runtime-main.js.map": "/static/js/runtime-main.91684171.js.map",
+    "static/js/2.2aa645b1.chunk.js": "/static/js/2.2aa645b1.chunk.js",
+    "static/js/2.2aa645b1.chunk.js.map": "/static/js/2.2aa645b1.chunk.js.map",
+    "static/js/3.e3943a29.chunk.js": "/static/js/3.e3943a29.chunk.js",
+    "static/js/3.e3943a29.chunk.js.map": "/static/js/3.e3943a29.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.2aa645b1.chunk.js.LICENSE.txt": "/static/js/2.2aa645b1.chunk.js.LICENSE.txt",
+    "static/media/featured.0f08611b.jpg": "/static/media/featured.0f08611b.jpg",
+    "static/media/hero-image.16da3810.jpg": "/static/media/hero-image.16da3810.jpg",
+    "static/media/product1.2dacdd15.jpg": "/static/media/product1.2dacdd15.jpg",
+    "static/media/product2.6d3c0459.jpg": "/static/media/product2.6d3c0459.jpg",
+    "static/media/product3.ccc7d56b.jpg": "/static/media/product3.ccc7d56b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cd2a0fb.js",
-    "static/js/2.31a96cfc.chunk.js",
+    "static/js/runtime-main.91684171.js",
+    "static/js/2.2aa645b1.chunk.js",
     "static/js/main.8ad4a5fc.chunk.js"
   ]
 }
